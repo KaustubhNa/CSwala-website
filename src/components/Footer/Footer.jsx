@@ -16,11 +16,11 @@ export default function Footer(props) {
                     <div className={styles.top}>
                         <img className={styles.logo} src={Logo} alt="" />
                     </div>
-                    <a href="mailto:cs.wala.guy@gmail.com">
-                        cs.wala.guy@gmail.com
+                    <a href="mailto:kaustubh.namjoshi1@gmail.com">
+                        kaustubh.namjoshi1@gmail.com
                     </a>
                     <div className={styles.socialDiv}>
-                        <a href="https://github.com/CSwala/CSwala-website">
+                        <a href="https://github.com/">
                             <UseAnimations
                                 className={styles.icon}
                                 animation={github}
@@ -30,7 +30,7 @@ export default function Footer(props) {
                                 speed={1}
                             />
                         </a>
-                        <a href="https://www.linkedin.com/company/cswala/">
+                        <a href="https://www.linkedin.com/company/Jobs_3.0/">
                             <UseAnimations
                                 className={styles.icon}
                                 animation={linkedin}
@@ -41,7 +41,7 @@ export default function Footer(props) {
                             />
                         </a>
                         <a
-                            href="https://discord.com/invite/rAz3Eb8fsN"
+                            href="https://discord.com/"
                             className={styles.discordIcon}
                         >
                             <FontAwesomeIcon
@@ -74,8 +74,8 @@ export default function Footer(props) {
                 </div>
             </div>
             <div className={styles.row2}>
-                <p className={styles.footerText}>Made with ❤️ in India</p>
-                <p className={styles.footerText}>© Copyright 2021 CSwaala</p>
+                <p className={styles.footerText}>Made with ❤️ in Belgium</p>
+                <p className={styles.footerText}>© Copyright 2021 Jobs 3.0</p>
                 <p className={styles.footerText}>
                     <a href="/#">Privacy Policy</a> &nbsp; | &nbsp;
                     <a href="/#">Site Map</a>&nbsp; | &nbsp;

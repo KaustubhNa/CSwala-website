@@ -11,11 +11,13 @@ function Landing() {
             <div class="col-lg-7 pt-5 pt-lg-0 order-2 order-lg-1 d-flex align-items-center">
               <div data-aos="zoom-out">
                 <h1>
-                  Gather information about everything and anything there is in Computer Science and related fields With <span>CSwaala</span>
+                  Are you a skilled in Web 3.0 technologies?
+
+                  <span>Jobs 3.0</span>
                 </h1>
                 <h2>
-                  Find the best resources in one place, which are already
-                  present in this huge network called INTERNET.
+                  Find the best Web 3.0 jobs posts, apply
+                  and join your diamond hands to blast off to the MOON.
                 </h2>
                 <div class="text-center text-lg-start">
                   <a href="/explore" class="btn-get-started scrollto">
