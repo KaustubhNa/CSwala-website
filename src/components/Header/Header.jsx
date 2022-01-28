@@ -21,7 +21,7 @@ function Header(props) {
 
   const pages = ["Home", "Explore", "Job Hunt", "Hack Feed", "Sign in"];
   //const paths = ["/", "/explore", "/jobs", "/feed", "/signin"];
-  const paths = ["/", "/explore", "/explore", "/explore", "/signin"];
+  const paths = ["/", "/explore", "/jobs", "/explore", "/signin"];
 
   let currentPage;
 
